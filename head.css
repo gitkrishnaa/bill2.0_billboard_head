@@ -11,7 +11,7 @@ body{
 
 
 
-#shop_name{
+/* #shop_name{
   color: yellow;
   text-align: center;
   font-size:40px;
@@ -20,6 +20,9 @@ body{
   border-bottom: 2px solid black;
   
   
+} */
+#bill_board_image1{
+  width:100%
 }
 #shop_website{
   text-align: center;
